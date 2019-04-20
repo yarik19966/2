@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Ostamatii42IPZLab02</string>
+    <string name="editTextHint">Enter the message here</string>
+    <string name="buttonName">SEND</string>
+    <string name="buttonNameSendTo">SEND TO</string>
+    <string name="chooser_title">Titel</string>
+</resources>
